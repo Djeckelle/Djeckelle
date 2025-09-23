@@ -1,0 +1,16 @@
+Participant;Topic;Entite;Role;Mission
+Sabine Poujat;Servicenow;DOTI/BS/MSI;Architecte fonctionnelle de la solution ;Coherence fonctionnelle, bonnes pratiques, support aux evolutions. Reponse fonctionnelle aux besoins des utilisateurs MSI dans le respect des bonnes pratiques ServiceNow .
+Jean-Pierre Bessard;Servicenow;DOTI/BS/MSI;Solution Consultant ServiceNow (focus CMDB);Implementation CMDB, specifications, tests, support utilisateurs. S'appuie sur Sabine en tant qu'architecte fonctionnel pour s'assurer que l'on reste dans les bonnes pratiques, dans la bonne direction par rapport à la solution ServiceNow. Analyse d'impact des besoins exprimes sur les process et configuration en place.
+Romain Chapon;APM;DOTI /EA;Data Custodian APM;S’assure que les donnees APM sont stockees, protegees, sauvegardees et accessibles. Afin de pourvoir être consomme par 3AM l'outil d'analyse et de prise de decision pour portefeuille d'application.
+Jacques Paul;APM;DOTI/EA;Dataowner;Definit l'usage et la Gouvernance des donnees APM
+David Coutelen;Evergreen;DOTI / IN / CSD;Program Manager IT Referentials for IT,;Programme Evergreen Referentiels IT : 13referentiels dans le programme dont APM et CMDB font partis. Mission chez  Oscar Casamian.
+David Coutelen;CMDB;DOTI / IN / GTO;PO CMDB;PO [ITIL ] CMDB : Gouvernance autour de la CMDB , et interlocuteur privilegie sur les besoins CMDB pour l'ensemble du groupe avec une vision CMDB pur et pas servicenow.
+David Coutelen;CMS;DOTI/IN/GTO/CMS;Process Owner CMS;CMS : Configuration Management System . Equipe en charge de s'assurer des process et de la qualites des donnes pour alimenter ServiceNow et garantire uen CMDB fiable.
+David Coutelen;IT Catalog;DOTI / IN / GTO;PO IT Catalog;IT Catalog referentiel des composants et services avec leur cycle de vie
+Vanessa Goncalves;CMS;DOTI/IN/GTO/CMS;CMS Architect (temporaire);Coordinatrice des acteurs/architecte autour des solutions qui alimentent :la CMB CMS
+Vanessa Goncalves;Evergreen;DOTI / IN / CSD;Architecte  SME; sur les flux (ex : M2IFE), support à la structuration du process
+Guillaume Chakroun;CMDB;DOTI / IN / GTO / ITP / ITI;Architecte & Team Lead plateforme IT Inventory;Decouverte des composants IT, integration CMDB via Kafka, lien CI techniques ? APM
+Alain Jagueneau;CMDB;DOTI / IN / GTO/CMS;Data Owner CMDB;Definit l'usage et la Gouvernance des donnees CMDB
+Lionel Barrier;Servicenow;DOTI/BS/MSI;Product Owner ServiceNow;Pilotage global de la solution ServiceNow
+Franck Thenot;CMS;DOTI / IN / GTO/CMS;Configuration Manage;Arrive en septembre en tant que Configuration Manager: BAU / qualite des donnees decouvertes et introduits design sur la partie sous l'application service. Mis à part les relations de l'application
+;;;;
