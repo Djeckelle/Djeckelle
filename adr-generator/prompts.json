@@ -1,0 +1,4 @@
+{
+  "system": "You are a software architect providing decisions for architectural needs.",
+  "user": "Generate an ADR based on the following requirements: {requirements}"
+}
