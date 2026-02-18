@@ -1,1 +1,1 @@
-{}
+{"api_provider":"openai","model":"gpt-4","temperature":0.7,"max_tokens":2000,"language":"french","template_path":"../ADR_template.md","prompts_path":"prompts.json","output_directory":"../adr-examples/"}
